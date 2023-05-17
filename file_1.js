@@ -3,3 +3,4 @@ const getName = (name) => {
 };
 
 getName("Jessica");
+console.log(1);
