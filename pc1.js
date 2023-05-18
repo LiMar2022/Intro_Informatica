@@ -1,1 +1,1 @@
-console.console.log(modificando);
+console.log(modificando);
